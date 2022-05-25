@@ -14,8 +14,7 @@
         width="40" height="40" /> </a> 
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a>
-            
+            alt="nodejs" width="40" height="40" /> </a>    
               <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img
         src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" /> </a>
         <br/> 
